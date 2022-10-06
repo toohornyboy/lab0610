@@ -1,3 +1,4 @@
 ﻿begin
-  print('скоро новый год');
+  println('скоро новый год');
+  println('365');
 end.
